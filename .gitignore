@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build files
+*.egg-info/
+build/
+dist/
+
+# Logs
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# Environment variables
+.env

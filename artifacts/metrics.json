@@ -1,5 +1,4 @@
 {
-    "model_name": "LinearSVC",
     "accuracy": 0.7845,
     "precision": 0.7711,
     "recall": 0.7845,
